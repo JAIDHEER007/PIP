@@ -1,7 +1,10 @@
 # Package Installer for Python
 ## Different Batch Programs to make PIP easier to work with
-<br>
 
+## Output
+* ### is_PIP_PY_present.bat<br>
+  ### Used to check if pip and python were installed or not
+  ![is_PIP_PY_present](./GIFS/is_PIP_PY_present/gif)
 ## Usefull Links
 
 <a href="https://stackoverflow.com/questions/30813972/what-does-nul-21-mean-in-a-batch-statment">About &gt; nul 2&gt;&1</a> <br>
